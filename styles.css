@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+
+}
+
+body {
+    background-image: url(BG\ beans.jpg)
+}
+
+ #t1 {
+    background-color: burlywood;
+    background-size: 200px;
+    margin: 75px 50px 75px 100px;
+    border: 20px solid burlywood;
+    max-width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+
+}
+
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    height: 3px;
+    background-color: darkred;
+    border: 2px solid black;
+}
+
+.top1 {
+    display: block;
+    /* look again in this point */
+    /*border:10px solid burlywood ;*/
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.flovar {
+    width: 75%;
+    text-align: left;
+
+}
+
+.price {
+    width: 24%;
+    text-align: right;
+}
+
+.item p {   
+    display: inline-block;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
